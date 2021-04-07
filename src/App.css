@@ -1,4 +1,8 @@
 .App {
+  text-align: right;
+  margin-right: 10em;
+}
+.Center {
   text-align: center;
 }
 
